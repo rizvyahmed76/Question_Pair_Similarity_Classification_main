@@ -103,6 +103,7 @@ All deep learning outputs (models, embeddings, padded sequences) will be saved a
 After training, you may use functions to compare any pair of questions and obtain a similarity score (duplicate or not) using your trained models.
 
 🙋‍♂️ Author
+
 Md Rizvy Ahmed | CSE Student | pentration tester & Machine Learning developer
 Email: rizvyahmed678@gmail.com
 GitHub: https://github.com/rizvyahmed76
