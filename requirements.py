@@ -1,0 +1,15 @@
+pandas
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+tabulate
+tensorflow
+transformers
+tf-keras
+plotly
+spacy
+datasets
+sentence-transformers
+scikeras
